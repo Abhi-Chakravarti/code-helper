@@ -25,19 +25,19 @@ A modern and responsive website designed to help students learn programming and 
 ## 📸 Screenshots
 
 ### 🏠 Home / Slider
-![Slider](screenshots/Ui1slider.png)
+![Slider](Screenshots/Ui1slider.png)
 
 ### 🛠 Services
-![Services](screenshots/Ui2services.png)
+![Services](Screenshots/Ui2services.png)
 
 ### 📖 About Us
-![About](screenshots/Ui3about.png)
+![About](Screenshots/Ui3about.png)
 
 ### 💻 Projects
-![Projects](screenshots/Ui4projects.png)
+![Projects](Screenshots/Ui4projects.png)
 
 ### 📞 Footer
-![Footer](screenshots/Ui5footer.png)
+![Footer](Screenshots/Ui5footer.png)
 
 ---
 
